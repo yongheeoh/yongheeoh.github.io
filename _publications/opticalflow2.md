@@ -1,7 +1,7 @@
 ---
 title: "Incremental learning for optical flow"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2022-08-01-paper-title-number-2
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-08-01
