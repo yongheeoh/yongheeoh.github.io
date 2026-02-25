@@ -9,7 +9,7 @@ redirect_from:
 
 I am an M.S. student at POSTECH advised by Prof. Seung-Hwan Baek in the Computer Graphics Lab. My research focuses on image sensor processing, physically-based rendering, and polarimetric HDR imaging.
 
-My goal is to leverage high-dimensional optical measurements to achieve physically accurate and realistic rendering, bridging real-world light acquisition and physically-based rendering systems.
+My goal is to acquire high-dimensional optical measurements and leverage them to achieve physically accurate and realistic rendering. Through this, I aim to bridge real-world light acquisition and physically-based rendering systems.
 
 I received my Bachelor’s degree in Computer Engineering from Chung-Ang University, graduating summa cum laude under the supervision of Prof. Junseok Kwon.
 
