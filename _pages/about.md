@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## About
 
 I am an M.S. student at POSTECH advised by Prof. Seung-Hwan Baek in the Computer Graphics Lab. My research focuses on image sensor processing, physically-based rendering, and polarimetric HDR imaging.
 
