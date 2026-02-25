@@ -23,7 +23,7 @@ repository               : "yongheeoh/yongheeoh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "yonghee.jpg"
   name             : "Yonghee Oh"
   pronouns         : "he/him"  
   bio              : ""
