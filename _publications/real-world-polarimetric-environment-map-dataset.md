@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/real-world-polarimetric-environment-map-dataset
 date: 2026-01-01
-authors: 'Yonghee Oh<sup>*</sup>, Ryota Maeda<sup>*</sup>, Yunseong Moon, Seung-Hwan Baek'
+authors: '<u>Yonghee Oh</u><sup>*</sup>, Ryota Maeda<sup>*</sup>, Yunseong Moon, Seung-Hwan Baek'
 status: 'Conditionally accepted at'
 venue: 'SIGGRAPH Asia'
 ---
